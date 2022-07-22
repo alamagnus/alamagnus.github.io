@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html lang="sv"><head>
+<meta content="text/html;charset=ISO-8859-1" http-equiv="Content-Type">
+ <meta name="keywords" content="Brämhult, Brämhult v&auml;der, v&auml;der Brämhult, weather, v&auml;der, v&auml;derstation, temperatur, temperature, wind, vind, regn, rain, nederb&ouml;rd, Magnus, Mj&ouml;lnarg&aring;rden, V&auml;der i Brämhult">
+  <title>V&auml;der i Brämhult, Johans v&auml;derstation</title>
+
+</head>
+
+<body>
+<div style="text-align: left;"><font style="font-weight: bold; font-family: Helvetica,Arial,sans-serif;" size="+1">Johans v&auml;derstation i Brämhult</font><br>
+<br>
+<big style="font-family: Helvetica,Arial,sans-serif;"><big><big><font size="+1"><big><big><big>%[outdoor_temperature]deg_C%
+°C</big></big></big></font></big></big></big><br>
+<br>
+<table style="text-align: left; width: 400px;" border="0" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td style="font-family: Helvetica,Arial,sans-serif;"></td>
+<td style="font-family: Helvetica,Arial,sans-serif;"></td>
+<td style="font-family: Helvetica,Arial,sans-serif;"></td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;">Senaste<br>
+timmen</td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Temperatur</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[outdoor_temperature]deg_C%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">°C</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;" nowrap="nowrap">%[hourly_rates_of_change]outdoor_temperature_rate_deg_C%
+</td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Max temperatur idag</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[daily_extremes]high_outdoor_temperature_deg_C%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">°C</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;" nowrap="nowrap">%[daily_extremes]high_outdoor_temperature_time_hms%
+</td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Min temperatur idag</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[daily_extremes]low_outdoor_temperature_deg_C%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">°C</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;" nowrap="nowrap">%[daily_extremes]low_outdoor_temperature_time_hms%
+</td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Nederbörd 1 Timme</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[rain_1h]mm%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">mm</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;" nowrap="nowrap"><br>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Nederbörd idag</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[rain_daily]mm%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">mm</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;" nowrap="nowrap"><br>
+</td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Nederbörd 24 Timmar</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[rain_24h]mm%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">mm</td>
+<td style="font-family: Helvetica,Arial,sans-serif;"></td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Luftfuktighet</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[outdoor_humidity]percent%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;">%[hourly_rates_of_change]outdoor_humidity_rate%</td>
+</tr>
+<tr>
+<td style="font-family: Helvetica,Arial,sans-serif; font-weight: bold;">Inomhustemperatur</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">%IndoorTempDegC%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">
+°C</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;">%[hourly_rates_of_change]indoor_temperature_rate_deg_C%</td>
+</tr>
+<tr>
+<td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Luftfuktighet, inomhus</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[indoor_humidity]percent%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">%</td>
+<td style="text-align: right; font-family: Helvetica,Arial,sans-serif;" nowrap="nowrap">&nbsp;
+%[hourly_rates_of_change]indoor_humidity_rate%</td>
+</tr>
+<tr>      <td style="text-align: left; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">Vindstyrka</td>      <td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;" nowrap="nowrap">%[wind_speed]mps%</td>      <td style="text-align: right; font-family: Helvetica,Arial,sans-serif; font-weight: bold;">m/s</td>      <td style="font-family: Helvetica,Arial,sans-serif; text-align: left;" nowrap="nowrap"><span style="font-weight: bold;">%[wind_direction]name%</span></td>    </tr>  
+
+</tbody>
+</table>
+<span style="font-family: Helvetica,Arial,sans-serif;">
+%EuroDate%&nbsp;%TimeHHMM%</span><br>
+<br>
+<script type="text/javascript" src="http://www.yr.no/sted/Sverige/V%C3%A4stra_G%C3%B6taland/Bor%C3%A5s/ekstern_boks_tre_dager.js"></script><noscript><a href="http://www.yr.no/sted/Sverige/V%C3%A4stra_G%C3%B6taland/Bor%C3%A5s/">yr.no: Prognos för Bor%C3%A5s</a></noscript>
+<br>
+<a href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVSTRAGT6"><img style="border: 0px solid ; width: 600px; height: 165px;" alt="Nederbörd senaste dygnet" src="http://www.wunderground.com/cgi-bin/wxStationGraphAll?ID=IVSTRAGT6&amp;type=2&amp;showrain=1"></a><br>
+<a target="_blank" href="http://www.wunderground.com/stationmaps/gmap.asp?zip=00000&amp;magic=1&amp;wmo=02418"><span style="text-decoration: underline;">Weather Underground
+karta (zoombar)</span></a><br>
+<a target="_blank" href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVSTRAGT6&amp;graphspan=month">Statistik
+denna månad</a><br>
+<a target="_blank" href="http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IVSTRAGT6&amp;graphspan=3month">Statistik
+senaste 3 månaderna</a><br>
+<br>
+<a href="vader.html">Tillbaka</a>
+</div>
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=595533; var sc_invisible=1; var sc_partition=4; var sc_security="54137bba"; </script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><a
+href="http://www.statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c5.statcounter.com/595533/0/54137bba/1/" alt="stats count"
+></a></div></noscript>
+<!-- End of StatCounter Code -->
+</body></html>

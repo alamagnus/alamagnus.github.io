@@ -1,0 +1,125 @@
+Vi har provat:
+Tonfisk 46 grader, 40 min. Bra! Bryn 20 sek på varje sida.
+Torskrygg 46 grader 40 min. Behöver höja graderna, kanske 48?
+Oxfile 59 grader, 2 resp 3 tim. 3 timmar bättre. Jag tycker man ska försöka med 60 grader.
+
+https://www.kitchenlab.se/2016/01/29/koksguiden-9-sous-vide-temperaturer-och-koktider/
+
+			Typ av råvara/kött 	Temperatur 	Minimumtid 	Bäst 	Maxtid
+FLÄSK 					
+					
+Rare 		Fläskfilé 				60°C 	1 h 	1 h 	2,5 h
+Medium 		Fläskfilé 				65°C 	1 h 	1 h 	2 h
+Well Done 	Fläskfilé 				70°C 	1 h 	1 h 	1,5 h
+					
+Rare 		Fläskkotlett 			60°C 	1 h 	1 h 	2,5 h
+Medium 		Fläskkotlett 			65°C 	1 h 	1 h 	2 h
+Well Done 	Fläskkotlett 			70°C 	1 h 	1 h 	1,5 h
+					
+Rare 		Fläskstek 				60°C 	2,5 h 	3-3,5 h 	5-6 h
+Medium 		Fläskstek 				65°C 	2,5 h 	3 h 	4 h
+Well Done 	Fläskstek 				70°C 	2,5 h 	3 h 	3,5 h
+					
+Rare 		Fläskbog 				60°C 	8 h 	14-18 h 	24 h
+Medium 		Fläskbog 				65°C 	8 h 	10-14 h 	24 h
+Well Done 	Fläskbog 				85°C 	6 h 	8 h 	16 h
+					
+Rare 		Fläsksida 				60°C 	8 h 	14-18 h 	24 h
+Medium 		Fläsksida 				65°C 	8 h 	10-14 h 	24 h
+Well Done 	Fläsksida 				80-85°C 6 h 	8 h 	16 h
+
+FÅGEL 					
+					
+Medium 		Ankbröst 				58°C 	1 h 	1-1,5 h 	2,5 h
+Medium 		Kycklingfile 			63°C 	45 min 	1-1,5 h 	2 h
+Well Done 	Kycklingfile 			72°C 	1 h 	1-1,5 h 	3 h
+					
+Medium 		Kycklinglår 			65°C 	1 h 	1,5 h 	4-5h
+Well Done 	Kycklinglår			 	72°C 	1 h 	1,5 h 	3 h
+
+NÖTKÖTT 					
+					
+Rare 		Ryggbiff 				54°C 	45 min 	1,5 h 	3 h
+Medium 		Ryggbiff 				58°C 	45 min 	1,5 h 	3 h
+Well Done 	Ryggbiff 				70°C 	45 min 	1,5 h 	3 h
+					
+Rare 		Oxfilé 					54°C 	45 min 	1,5 h 	3 h
+Medium 		Oxfilé 					58°C 	45 min 	1,5 h 	3 h
+Well Done 	Oxfilé 					70°C 	45 min 	1,5 h 	3 h
+										
+Rare 		Entrecote på ben 		56°C 	5 h 	7-8 h 	16 h
+Medium 		Entrecote på ben 		60°C 	5 h 	6 h 	14 h
+Medium/well Entrecote på ben 		65°C 	5,5 h 	5,5 h 	12 h
+Well Done 	Entrecote på ben 		70°C 	5 h 	5 h 	10 h
+					
+Rare 		Oxbringa 				58°C 	24 h 	24 h 	48 h
+Medium 		Oxbringa 				65°C 	16 h 	16 h 	24 h
+Well Done 	Oxbringa 				85°C 	6-8 h 	8 h 	18 h
+					
+Rare 		Högrev 					57°C 	24 h 	24 h 	48 h
+Medium 		Högrev 					64°C 	16 h 	16 h 	24 h
+Well Done 	Högrev 					82°C 	6-8 h 	8 h 	18 h
+					
+Rare 		Flankstek 				58°C 	8 h 	12 h 	48 h
+Medium 		Flankstek 				65°C 	8 h 	12 h 	24 h
+Well Done 	Flankstek 				82°C 	6-8 h 	8 h 	18 h
+
+Rare 		Entrecote, skivad, utan ben 	54°C 	1 h 	1,5 h 	3 h
+Medium 		Entrecote, skivad, utan ben 	58°C 	1 h 	1,5 h 	3 h
+Medium/well Entrecote, skivad, utan ben 	65°C 	1 h 	1,5 h 	3 h
+Well Done 	Entrecote, skivad, utan ben 	70°C 	1 h 	1,5 h 	3 h
+
+FISK 					
+					
+Rare 		Laxfilé 				40°C 	30 min 	40 min 	1 h
+Medium 		Laxfilé 				47°C 	30 min 	40 min 	1 h
+Well Done 	Laxfilé 				55°C 	30 min 	40 min 	1 h
+					
+Rare 		Tonfisk 				41°C 	30 min 	40 min 	1 h
+Medium 		Tonfisk 				46°C 	30 min 	40 min 	1 h
+Well Done 	Tonfisk 				49°C 	30 min 	40 min 	1 h
+					
+Rare 		Torsk 					40°C 	30 min 	40 min 	1 h
+Medium 		Torsk 					45°C 	30 min 	40 min 	1 h
+Well Done 	Torsk 					50°C 	30 min 	40 min 	1 h
+					
+Rare 		Hälleflundra 			42°C 	30 min 	40 min 	1 h
+Medium 		Hälleflundra 			48°C 	20 min 	30 min 	45 h
+Well Done 	Hälleflundra 			52°C 	30 min 	40 min 	1 h
+					
+Rare 		Piggvar 				42°C 	30 min 	40 min 	1 h
+Medium 		Piggvar 				47°C 	20 min 	30 min 	45 h
+Well Done 	Piggvar 				50°C 	30 min 	40 min 	1 h
+
+SKALDJUR 					
+					
+Nästan rå 	Hummerstjärt, skalad 	49°C 	20 min 	20 min 	–
+Mör 		Hummerstjärt, skalad 	54°C 	20 min 	20 min 	–
+Fasta 		Hummerstjärt, skalad 	59°C 	20 min 	20 min 	–
+					
+Nästan råa 	Pilgrimsmusslor 		42°C 	20 min 	20 min 	30 min
+Möra 		Pilgrimsmusslor 		51°C 	20 min 	20 min 	30 min
+Fasta 		Pilgrimsmusslor 		54°C 	20 min 	20 min 	30 min
+					
+Nästan råa 	Räkor 					50°C 	15 min 	15 min 	–
+Möra 		Räkor 					56°C 	15 min 	15 min 	–
+Fasta 		Räkor 					60°C 	15 min 	15 min 	–
+
+GRÖNSAKER 					
+					
+Morot och palsternacka 				85°C 	15 min 	15 min 	20 min
+Sparris 							82°C 	15 min 	22 min 	30 min
+Potatis 							90°C 	1 h 	1 h 	3 h
+Rödbetor 							86°C 	1 h 	3 h 	5 h
+Pumpa 								90°C 	30 min 	30 min 	45 min
+Fänkål 								80°C 		 2 h 	
+
+ÖVRIGT 					
+					
+Löst 		Ägg, Large 				64°C 	1 h 	
+Pocherat 	Ägg, Large 				72°C 	13 min 	
+Hårdkokt 	Ägg, Large 				84°C 	20 min 	
+					
+Crème Brûlée 						80°C 	1 h 	
+					
+Yoghurt 		 					37-43°C 5 h 	 12 h 	 24 h
